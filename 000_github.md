@@ -10,7 +10,7 @@ git init
 git remote add origin https://github.com/<username>/reponame.git
 git add .
 git commit -m "mensaje"
-git pust -u origin master
+git push -u origin master
 ```
 
 ## Obtener todos los repos de un user
