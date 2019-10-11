@@ -25,7 +25,8 @@ Si tenemos un fichero especifico para el host
 
 `vim ~/.ssh/config`
 
+|**~/.ssh/config**             |
+|------------------------------|
 | Host <remotehos>             |
 |  IdentityFile /path/a/id_rsa |
 |------------------------------|
-[~/.ssh/config/]
