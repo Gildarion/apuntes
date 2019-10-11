@@ -22,7 +22,10 @@ borramos la clave publica
 rm id_rsa.pub
 ```
 Si tenemos un fichero especifico para el host
+
 `vim ~/.ssh/config`
+
 | Host <remotehos>             |
 |  IdentityFile /path/a/id_rsa |
-|:----------------------------:|
+|------------------------------|
+[~/.ssh/config/]
